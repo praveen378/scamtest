@@ -137,7 +137,7 @@ export default function Header() {
                     } hover:text-orange-700`
                   }
                 >
-                  Github
+                  Mahadaan
                 </NavLink>
               </li>
             </ul>
