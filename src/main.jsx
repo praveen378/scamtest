@@ -19,6 +19,9 @@ import Login from "./components/Login/Login.jsx";
 import Signup from "./components/Login/Signup.jsx";
 import Profile from "./components/Profile/Profile.jsx";
 import CompleteProfile from "./components/Profile/CompleteProfile.jsx";
+import Payment from "./components/Payment/Payment.jsx";
+import PaymentPage from "./components/Payment/PaymentPage.jsx";
+import Donation from "./components/Payment/Donation.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
